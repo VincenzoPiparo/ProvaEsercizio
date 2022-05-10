@@ -29,7 +29,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
         }
         static int Add(int v1, int v2)
         {
-            return v1 + v2;
+            return v1 * v2;
         }
     }
 }
